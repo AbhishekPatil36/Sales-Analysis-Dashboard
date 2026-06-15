@@ -1,4 +1,5 @@
-📊 Sales Analytics Dashboard | Power BI
+📊 **Sales Analytics Dashboard | Power BI**
+
 🚀 Project Overview
 The Sales Analytics Dashboard is a comprehensive Business Intelligence solution developed in Power BI to transform raw sales data into meaningful insights. This dashboard provides a 360° view of business performance by tracking revenue, profitability, customer behavior, and regional trends, empowering stakeholders to make data-driven decisions efficiently.
 
